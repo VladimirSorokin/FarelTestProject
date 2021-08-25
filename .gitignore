@@ -1,2 +1,5 @@
-# Project exclude paths
-/.gradle/
+.allure
+.gradle
+build
+.idea
+/allure-results/
