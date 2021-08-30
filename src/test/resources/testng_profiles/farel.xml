@@ -4,6 +4,7 @@
     <test name="Amazon test">
         <classes>
             <class name="FarelUITests"/>
+            <class name="FarelAPITests"/>
         </classes>
     </test>
 </suite>
